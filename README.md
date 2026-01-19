@@ -1,2 +1,2 @@
 # tax-code-helper
-Utility for retrieve date of birth and age from tax code
+Utility to retrieve date of birth and age from tax code
